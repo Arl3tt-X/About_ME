@@ -12,8 +12,8 @@ Neuroscience | Behavioral Science | ABA | Neurofeedback | OpenBCI Tech | EEG/ERP
 
 ## 🔗 Portfolio & Contact
 - Portfolio: [https://arl3tt.github.io/portfolio-project](https://arl3tt.github.io/portfolio-project)  
-- GitHub: [https://github.com/V-arlett](https://github.com/V-arlett)  
-- Email / LinkedIn: V.arlett@yahoo.com / [(www.linkedin.com/in/vanessa-369-0010110z)](https://www.linkedin.com/in/vanessa-369-0010110z/)
+- GitHub: [[https://github.com/](https://github.com/V-arlett)](https://github.com/Arl3tt-X)  
+- Email / LinkedIn: Arl3tt.X@hotmail.com / [(www.linkedin.com/in/vanessa-369-0010110z)](https://www.linkedin.com/in/vanessa-369-0010110z/)
   
 ---
 ## 🌱 Current Focus
